@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev src/index.ts"
+    "start": "ts-node-dev src/index.ts",
+    "prettier:check": "npx prettier --check .",
+    "prettier:format": "npx prettier --write ."
   },
   "author": "",
   "license": "ISC",
