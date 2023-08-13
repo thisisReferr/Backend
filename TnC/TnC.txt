@@ -10,7 +10,6 @@ referR is designed and intended to be used as a tool to facilitate the connectio
 
 To achieve the purpose of referR, referR collects and utilizes professional and personal data from its Users which is then analyzed to generate a customized job feed and to improve the services offered. referR maintains strict data security protocols in order to protect the information collected from its Users.
 
-
 3. Limitation of Liability
 
 referR is provided on an “as is” basis, without any warranties or representations of any kind, either express or implied. referR is a tool for connecting professionals based on their skills and bears no responsibility for any loss or damage arising from the legal or illegal use of the App. referR or any of its associates shall not be held liable for any damages resulting from the use of its services.
